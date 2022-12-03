@@ -1,0 +1,11 @@
+created: 20221203171456240
+modified: 20221203171955466
+tags: $:/plugins/linonetwo/sub-wiki/readme
+title: $:/config/FileSystemPaths
+type: text/vnd.tiddlywiki
+
+[is[system]removeprefix[$:/]addprefix[mysystem/]]
+[is[image]addprefix[myimages/]]
+[tag[task]addprefix[mytasks/]]
+[has[draft.of]addprefix[mydrafts/]]
+[!has[draft.of]]
