@@ -1,7 +1,12 @@
 {
   "description": "Basic client-server edition",
   "plugins": [
-     "linonetwo/github-external-image"
+     "linonetwo/service-worker",
+    "linonetwo/opened-tiddlers-bar",
+    "linonetwo/inverse-link-and-folder",
+    "linonetwo/copy-on-select",
+    "linonetwo/prevent-edit",
+    "linonetwo/watch-fs"
   ],
   "themes": [
     "tiddlywiki/vanilla"
